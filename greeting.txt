@@ -1,6 +1,3 @@
-Hello, Developer!
+MyNextProject - GitHub Workflow Onboarding
 
-Welcome to your first GitHub workflow project.
-
-This is a simple greeting file that you'll personalize
-as you practice the professional development workflow.
+Practicing GitHub workflow to understand industry best practices.
