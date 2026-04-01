@@ -1,3 +1,5 @@
 MyNextProject - GitHub Workflow Onboarding
 
+Akalanka Galappaththi
+
 Practicing GitHub workflow to understand industry best practices.
